@@ -1,0 +1,124 @@
+{
+ "/images/cut-1.jpg": {
+  "w": 361,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   361
+  ],
+  "base": "/images/_opt/cut-1.fcff2e8bd0",
+  "stamp": "fcff2e8bd0"
+ },
+ "/images/cut-10.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cut-10.1b8881feb7",
+  "stamp": "1b8881feb7"
+ },
+ "/images/cut-11.jpg": {
+  "w": 361,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   361
+  ],
+  "base": "/images/_opt/cut-11.9b1f7ffdd9",
+  "stamp": "9b1f7ffdd9"
+ },
+ "/images/cut-12.jpg": {
+  "w": 361,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   361
+  ],
+  "base": "/images/_opt/cut-12.86c28d6a02",
+  "stamp": "86c28d6a02"
+ },
+ "/images/cut-2.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cut-2.51e4290041",
+  "stamp": "51e4290041"
+ },
+ "/images/cut-3.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cut-3.1380ff4618",
+  "stamp": "1380ff4618"
+ },
+ "/images/cut-6.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cut-6.d747256d3b",
+  "stamp": "d747256d3b"
+ },
+ "/images/cut-9.jpg": {
+  "w": 360,
+  "h": 640,
+  "widths": [
+   96,
+   128,
+   256,
+   360
+  ],
+  "base": "/images/_opt/cut-9.6cf7a7c1da",
+  "stamp": "6cf7a7c1da"
+ },
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.b4146e2b58",
+  "stamp": "b4146e2b58"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.bd2d1682a8",
+  "stamp": "bd2d1682a8"
+ }
+}
